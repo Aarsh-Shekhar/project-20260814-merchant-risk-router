@@ -1,0 +1,146 @@
+[
+  {
+    "id": "merchant-001",
+    "exposure": 26688,
+    "signal": 0.674,
+    "urgency": 4
+  },
+  {
+    "id": "merchant-002",
+    "exposure": 35574,
+    "signal": 0.503,
+    "urgency": 8
+  },
+  {
+    "id": "merchant-003",
+    "exposure": 44377,
+    "signal": 0.356,
+    "urgency": 8
+  },
+  {
+    "id": "merchant-004",
+    "exposure": 77870,
+    "signal": 0.645,
+    "urgency": 1
+  },
+  {
+    "id": "merchant-005",
+    "exposure": 76165,
+    "signal": 0.77,
+    "urgency": 7
+  },
+  {
+    "id": "merchant-006",
+    "exposure": 14091,
+    "signal": 0.948,
+    "urgency": 3
+  },
+  {
+    "id": "merchant-007",
+    "exposure": 75782,
+    "signal": 0.227,
+    "urgency": 8
+  },
+  {
+    "id": "merchant-008",
+    "exposure": 40662,
+    "signal": 0.177,
+    "urgency": 7
+  },
+  {
+    "id": "merchant-009",
+    "exposure": 1456,
+    "signal": 0.805,
+    "urgency": 3
+  },
+  {
+    "id": "merchant-010",
+    "exposure": 58168,
+    "signal": 0.467,
+    "urgency": 6
+  },
+  {
+    "id": "merchant-011",
+    "exposure": 81190,
+    "signal": 0.345,
+    "urgency": 9
+  },
+  {
+    "id": "merchant-012",
+    "exposure": 10342,
+    "signal": 0.396,
+    "urgency": 8
+  },
+  {
+    "id": "merchant-013",
+    "exposure": 5334,
+    "signal": 0.316,
+    "urgency": 2
+  },
+  {
+    "id": "merchant-014",
+    "exposure": 73763,
+    "signal": 0.758,
+    "urgency": 3
+  },
+  {
+    "id": "merchant-015",
+    "exposure": 71234,
+    "signal": 0.588,
+    "urgency": 2
+  },
+  {
+    "id": "merchant-016",
+    "exposure": 38423,
+    "signal": 0.363,
+    "urgency": 8
+  },
+  {
+    "id": "merchant-017",
+    "exposure": 25335,
+    "signal": 0.396,
+    "urgency": 4
+  },
+  {
+    "id": "merchant-018",
+    "exposure": 48539,
+    "signal": 0.552,
+    "urgency": 6
+  },
+  {
+    "id": "merchant-019",
+    "exposure": 58539,
+    "signal": 0.938,
+    "urgency": 5
+  },
+  {
+    "id": "merchant-020",
+    "exposure": 33298,
+    "signal": 0.522,
+    "urgency": 9
+  },
+  {
+    "id": "merchant-021",
+    "exposure": 14105,
+    "signal": 0.422,
+    "urgency": 4
+  },
+  {
+    "id": "merchant-022",
+    "exposure": 62529,
+    "signal": 0.585,
+    "urgency": 1
+  },
+  {
+    "id": "merchant-023",
+    "exposure": 73587,
+    "signal": 0.76,
+    "urgency": 8
+  },
+  {
+    "id": "merchant-024",
+    "exposure": 80074,
+    "signal": 0.156,
+    "urgency": 2
+  }
+]
